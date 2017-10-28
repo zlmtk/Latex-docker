@@ -1,0 +1,1 @@
+docker build -t latex-env:7.4.1708 . 
