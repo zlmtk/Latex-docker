@@ -17,7 +17,7 @@ If you use **xhost**, you must provide access to xserver before running the cont
 
 ## Basic usage 
 
-The simple bash script contains the previous commands. To use Texmaker get into the working directory and run the **tex-env.sh** script. This working directory will be shared with the workpsace folder into the container.
+The simple bash script contains the previous commands. To use Texmaker get into the working directory and run the [text-env.sh](tex-env.sh) script. This working directory will be shared with the workpsace folder into the container.
     
 
 ----------
